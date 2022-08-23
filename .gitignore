@@ -44,3 +44,7 @@ aws-elastic-beanstalk-cli-setup
 
 # variables d'environnement - info connexion db + infos connexion aws
 .env
+
+
+#dev-testing
+code.ts
